@@ -1,0 +1,28 @@
+name: vikstroem
+favicon: null
+layout_spectrum: 0.29193103360012174
+typography_spectrum: 0.3393937894143164
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6815319813322276
+  lightness: 0.48317517805844545
+  saturation: 0.14731499692425132
+  rhythmicContrast: 0.9001972181722522
+purpose: []
