@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[vikstroem]]></title>
+        <description><![CDATA[vikstroem]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Feb 2016 19:08:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Are we going up]]></title>
+            <description><![CDATA[<article><h1>Are we going up</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5eab520a433a081848b8f1eb1c437981efea08d5.png"></article>]]></description>
+            <link>undefinedare-we-going-up/index.html</link>
+            <guid isPermaLink="false">14dac826-4b7d-4882-9b9d-d7f6481852e2</guid>
+            <pubDate>Wed, 24 Feb 2016 19:08:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
