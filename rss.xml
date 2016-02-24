@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[vikstroem]]></title>
         <description><![CDATA[vikstroem]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vikstroem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 19:08:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 19:08:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vikstroem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HAV .dk The Best chili sauce In Copenhagen]]></title>
+            <description><![CDATA[<article><h1>HAV .dk The Best chili sauce In Copenhagen</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f45f1f67e1cc171aa47b9c1b685d32d11d0d744a.png"></article>]]></description>
+            <link>https://thegrid.ai/vikstroem/hav-dk-the-best-chili-sauce-in-copenhagen/index.html</link>
+            <guid isPermaLink="false">335e3ab6-fff4-4d5e-afc2-07ab236bb2e1</guid>
+            <pubDate>Wed, 24 Feb 2016 19:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are we going up]]></title>
             <description><![CDATA[<article><h1>Are we going up</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5eab520a433a081848b8f1eb1c437981efea08d5.png"></article>]]></description>
-            <link>undefinedare-we-going-up/index.html</link>
+            <link>https://thegrid.ai/vikstroem/are-we-going-up/index.html</link>
             <guid isPermaLink="false">14dac826-4b7d-4882-9b9d-d7f6481852e2</guid>
             <pubDate>Wed, 24 Feb 2016 19:08:22 GMT</pubDate>
         </item>
