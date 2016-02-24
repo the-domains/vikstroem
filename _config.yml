@@ -1,28 +1,40 @@
-name: vikstroem
+layout_spectrum: 0.7340425
 favicon: null
-layout_spectrum: 0.29193103360012174
-typography_spectrum: 0.3393937894143164
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: vikstroem
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.8425532
+  lightness: 0.7212766
+  saturation: 0.147315
+  rhythmicContrast: 0.9001972
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.6815319813322276
-  lightness: 0.48317517805844545
-  saturation: 0.14731499692425132
-  rhythmicContrast: 0.9001972181722522
-purpose: []
+    - '#AC390C'
+    - '#FFFFFF'
+    - '#300503'
+    - '#FFCF5C'
+    - '#D88030'
+typography_spectrum: 0.3042553
