@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-24T19:14:55.059Z'
+datePublished: '2016-02-24T19:26:55.934Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: aiim.io the home for talent and potential
-dateModified: '2016-02-24T19:06:45.854Z'
+dateModified: '2016-02-24T19:26:31.529Z'
 sourcePath: _posts/2016-02-24-aiimio-the-home-for-talent-and-potential.md
 published: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
